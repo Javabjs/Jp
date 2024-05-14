@@ -2,7 +2,7 @@ public class Ex
 {
 	public static void main(String[] arvs)
 	{
-	System.out.println("Hello World");
+	System.out.println("Hello Mrs");
 	System.out.println(arvs[0]);
 	System.out.println(arvs[1]);
 	}
