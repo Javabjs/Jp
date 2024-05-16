@@ -13,7 +13,8 @@ public class Sum {
 			s=s+i;
 		}
 		System.out.println(s);
-
+ 
+		
 
 	}
 
